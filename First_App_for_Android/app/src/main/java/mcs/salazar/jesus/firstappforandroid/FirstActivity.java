@@ -10,13 +10,16 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import mcs.salazar.jesus.firstappforandroid.container.ListViewAdapter;
+
 public class FirstActivity extends AppCompatActivity {
 
-    ArrayList<Season> theList = new ArrayList<>();
+    public static ArrayList<Season> THE_LIST = new ArrayList<>();
 
     @Override
     protected void onSaveInstanceState(Bundle outState) {
@@ -38,10 +41,19 @@ public class FirstActivity extends AppCompatActivity {
                     Toast.LENGTH_LONG).show();
         }
         System.out.println("TOKEN MAGICO onCreate is happening.");
+
+        if(THE_LIST.size() == 0) {
+            loadData();
+        }
+
+
+        ListViewAdapter adapter = new ListViewAdapter(this, THE_LIST);
+        ((ListView) findViewById(R.id.listview)).setAdapter(adapter);
+
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        Button button = findViewById(R.id.button_send);
-        button.setText(button.getText() + ", How are you?");
+        // Button button = findViewById(R.id.button_send);
+        // button.setText(button.getText() + ", How are you?");
 
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(
@@ -59,6 +71,15 @@ public class FirstActivity extends AppCompatActivity {
                 startActivityForResult(intent, 1);
             }
         });
+    }
+
+    private void loadData() {
+        THE_LIST.add(new Season("Friends",10,3,1));
+        THE_LIST.add(new Season("Friends",13,1,2));
+        THE_LIST.add(new Season("Friends",15,7,3));
+        THE_LIST.add(new Season("Friends",10,3,4));
+        THE_LIST.add(new Season("Friends",13,1,5));
+        THE_LIST.add(new Season("Friends",15,7,6));
     }
 
     @Override
