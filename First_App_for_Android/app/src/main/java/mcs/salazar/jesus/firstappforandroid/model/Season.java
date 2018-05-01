@@ -1,4 +1,4 @@
-package mcs.salazar.jesus.firstappforandroid;
+package mcs.salazar.jesus.firstappforandroid.model;
 
 /**
  * Created by jesussalazar on 4/26/18.

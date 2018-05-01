@@ -6,4 +6,6 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_episode_list">Episodes</string>
+    <string name="title_episode_detail">Episode Detail</string>
 </resources>

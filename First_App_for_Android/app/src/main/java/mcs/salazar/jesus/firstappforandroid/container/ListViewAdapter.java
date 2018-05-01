@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import mcs.salazar.jesus.firstappforandroid.R;
-import mcs.salazar.jesus.firstappforandroid.Season;
+import mcs.salazar.jesus.firstappforandroid.model.Season;
 
 /**
  * Created by jesussalazar on 4/30/18.

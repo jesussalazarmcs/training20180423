@@ -9,13 +9,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
 
 import mcs.salazar.jesus.firstappforandroid.container.ListViewAdapter;
+import mcs.salazar.jesus.firstappforandroid.model.Season;
 
 public class FirstActivity extends AppCompatActivity {
 

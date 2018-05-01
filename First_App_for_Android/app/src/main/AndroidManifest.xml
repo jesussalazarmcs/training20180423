@@ -15,14 +15,27 @@
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <!--<action android:name="android.intent.action.ACTION_DIAL" />-->
+                <!-- <action android:name="android.intent.action.ACTION_DIAL" /> -->
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".SecondActivity"
             android:label="@string/title_activity_second"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".fragment.EpisodeListActivity"
+            android:label="@string/title_episode_list"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".fragment.EpisodeDetailActivity"
+            android:label="@string/title_episode_detail"
+            android:parentActivityName=".fragment.EpisodeListActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="mcs.salazar.jesus.firstappforandroid.fragment.EpisodeListActivity" />
+        </activity>
     </application>
 
 </manifest>
