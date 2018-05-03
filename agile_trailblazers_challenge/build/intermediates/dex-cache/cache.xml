@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/AndroidStudioProjects/bryan/agile_trailblazers_challenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/bryan/agile_trailblazers_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_822a874b7eb5b53e26fada556ad5824dd3d553f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/AndroidStudioProjects/bryan/agile_trailblazers_challenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa507c037442cb5fd73593802d86f827b18a5249">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/bryan/agile_trailblazers_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49a3a27f1070d7aac3fa70ab5d2733878aa66914/classes.dex" />
+    </item>
+
+</items>

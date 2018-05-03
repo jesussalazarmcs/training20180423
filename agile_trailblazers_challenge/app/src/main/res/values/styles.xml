@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WeatherLabel">
+        <item name="android:textColor">@color/weatherLabel</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_medium</item>
+    </style>
+
+    <style name="WeatherText">
+        <item name="android:textAlignment">textEnd</item>
+        <item name="android:textSize">@dimen/font_size_medium</item>
+    </style>
+
+    <style name="MarginTopAndBottom">
+        <item name="android:layout_marginTop">@dimen/vertical_margin</item>
+        <item name="android:layout_marginBottom">@dimen/vertical_margin</item>
+    </style>
+
+    <style name="MarginTopAndBottom.SMALL">
+        <item name="android:layout_marginTop">@dimen/vertical_margin_small</item>
+        <item name="android:layout_marginBottom">@dimen/vertical_margin_small</item>
+    </style>
+
+</resources>

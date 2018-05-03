@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/sectionDivide"
+    android:id="@+id/main_layout"
+    tools:context=".ResultsActivity">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:id="@+id/progressBar"
+        android:indeterminateDrawable="@drawable/circular_progress_bar"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+    <FrameLayout
+        android:id="@+id/weather_details_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/weather_details"/>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">The Weather App</string>
+    <string name="results_name">Search</string>
+
+    <!-- SearchActivity -->
+    <string name="label_enter_zip_code">Enter Zip Code</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- SnackBar for checkConnection -->
+    <string name="sbar_connect">You Are Connected</string>
+    <string name="sbar_noconnect">You Are Not Connected</string>
+    <string name="sbar_tryagain">Try Again</string>
+
+    <!-- ResultsActivity -->
+    <string name="search_title">Search: %s</string>
+    <string name="label_wind_speed">Wind Speed</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_sunrise">Sunrise</string>
+    <string name="text_condition_main">Clear</string>
+    <string name="text_condition_description">Clear sky</string>
+    <string name="text_temperature">72\u00b0F</string>
+    <string name="text_wind_speed">104 m/sec</string>
+    <string name="text_pressure">1016 hpa</string>
+    <string name="text_humidity">42%</string>
+    <string name="text_sunrise">6:55 AM</string>
+    <string name="text_city_name">Measured: Dallas, TX</string>
+    <string name="results_wind_speed">%s m/sec</string>
+    <string name="results_pressure">%s hpa</string>
+    <string name="results_sunrise">%s AM</string>
+    <string name="results_city_name">Measured: %s</string>
+
+    <!-- Alert Dialog -->
+    <string name="dialog_invalid_zipcode_title">INVALID ZIP CODE</string>
+    <string name="dialog_invalid_zipcode_message">Cannot find details for %s. Please try again with another zip code.</string>
+    <string name="dialog_invalid_zipcode_goback">GO BACK</string>
+    <string name="dialog_error_title">ERROR</string>
+    <string name="dialog_error_message">We may have encountered an error. Please try again, or go back to previous screen to try with another zip code.</string>
+    <string name="dialog_error_tryagain">TRY AGAIN</string>
+    <string name="dialog_error_goback">GO BACK</string>
+    <string name="dialog_network_error_title">NOT CONNECTED</string>
+    <string name="dialog_network_error_message">It appears you are not connected. Please try again, or go back to previous screen to try with another zip code.</string>
+    <string name="dialog_network_error_tryagain">TRY AGAIN</string>
+    <string name="dialog_network_error_goback">GO BACK</string>
+
+</resources>
