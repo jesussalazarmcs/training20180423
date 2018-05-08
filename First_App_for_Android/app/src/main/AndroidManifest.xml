@@ -26,7 +26,7 @@
         <activity
             android:name=".fragment.EpisodeListActivity"
             android:label="@string/title_episode_list"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".fragment.EpisodeDetailActivity"
             android:label="@string/title_episode_detail"
@@ -36,6 +36,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="mcs.salazar.jesus.firstappforandroid.fragment.EpisodeListActivity" />
         </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
     </application>
 
 </manifest>

@@ -130,11 +130,9 @@ public class SecondActivity extends AppCompatActivity
             Intent result = new Intent("com.example.RESULT_ACTION", Uri.parse("content://nav_manage"));
             setResult(500, result);
             finish();
-        }/* else if (id == R.id.nav_share) {
-            Intent result = new Intent("com.example.RESULT_ACTION", Uri.parse("content://result_uri"));
-            setResult(Activity.RESULT_OK, result);
-            finish();
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_share) {
+            startActivity(SettingsActivity.getIntent(this));
+        }/* else if (id == R.id.nav_send) {
             Intent result = new Intent("com.example.RESULT_ACTION", Uri.parse("content://result_uri"));
             setResult(Activity.RESULT_OK, result);
             finish();
