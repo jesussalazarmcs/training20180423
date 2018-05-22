@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/BroadcastReceiver/app/src/main/assets"/><source path="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/BroadcastReceiver/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/BroadcastReceiver/app/src/debug/assets"/></dataSet></merger>

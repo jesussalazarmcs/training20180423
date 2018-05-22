@@ -1,0 +1,4 @@
+#Thu May 10 10:15:17 EDT 2018
+base.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/BroadcastReceiver/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

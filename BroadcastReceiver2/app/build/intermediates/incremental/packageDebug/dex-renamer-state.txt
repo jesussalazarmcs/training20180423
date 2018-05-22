@@ -1,0 +1,7 @@
+#Mon Jan 29 02:34:54 EST 2018
+base.0=/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc155d8f85809a82536caa1557f45a4d2f058511
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35a8cad78efa882cc60e57bd2e50410064ff8c7b/classes.dex
+base.1=/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35a8cad78efa882cc60e57bd2e50410064ff8c7b
+file.0=/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc155d8f85809a82536caa1557f45a4d2f058511/classes.dex

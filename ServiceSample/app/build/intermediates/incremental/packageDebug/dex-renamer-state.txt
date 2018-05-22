@@ -1,0 +1,7 @@
+#Wed May 09 11:45:37 EDT 2018
+base.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61ff361cc168c8048a2a52c223873c9601220d6d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_31f2b42a073365fe39bad4f0e0c516b9e7f56696/classes.dex
+base.1=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_31f2b42a073365fe39bad4f0e0c516b9e7f56696
+file.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61ff361cc168c8048a2a52c223873c9601220d6d/classes.dex

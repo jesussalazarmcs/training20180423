@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

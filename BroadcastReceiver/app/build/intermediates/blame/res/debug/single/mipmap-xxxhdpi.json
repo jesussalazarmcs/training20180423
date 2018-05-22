@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/29d232c73925a2d42243c9fccac8c1a05502b59e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d00cc8c86015c822c8f66b42d1a02011adc978bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/e6b63661a531eb5032f421b3c89c7060ff879ed9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_246c568acdfc90e0f57563ad9db3a1d4d23583b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/32d9cfdc4941c367cab61d88e21a6f43387193e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_15afc713180b58a946130366a082ba0f89ad87b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/29d232c73925a2d42243c9fccac8c1a05502b59e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_d00cc8c86015c822c8f66b42d1a02011adc978bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_dc168524afaf5de7053b09e8eaaee5f11bc651df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/32d9cfdc4941c367cab61d88e21a6f43387193e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15afc713180b58a946130366a082ba0f89ad87b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0b4f3d3e707bec966cf0518dabfc6ac64c260ee9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/de4746009d4325b266f112bf89e0e498b282bb5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a6906c536a9dd384a12bcff545985625719959e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/de4746009d4325b266f112bf89e0e498b282bb5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_6a6906c536a9dd384a12bcff545985625719959e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/3ae5bcc7f62bf5fbc74cd33547cbf22ba488217d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_2495af1b8a8ee64f8f84ac97ce714908c0af79ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f8d038b6041e054a9071a6ba67888b781dc5f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/0999c4628c5482e8df91192ce10019bf38a88f4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_e6222ed4922a71eaa2cdda5675244ee38e8d3b87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/3ae5bcc7f62bf5fbc74cd33547cbf22ba488217d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2495af1b8a8ee64f8f84ac97ce714908c0af79ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0b4f3d3e707bec966cf0518dabfc6ac64c260ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_774cadc886f911d789f3ccc432d92773fd7db413/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/e6b63661a531eb5032f421b3c89c7060ff879ed9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_246c568acdfc90e0f57563ad9db3a1d4d23583b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d8bc1c43b9d26185931a7d6a044041048c0c15bb">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f3b954f69a3981c9db3ffeb08de3129ee590d9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/73f0d1d2994d00476908d67e638816d4df636372/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a452b4c109e884f0fffb9d36b96ee9af673215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/0999c4628c5482e8df91192ce10019bf38a88f4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6222ed4922a71eaa2cdda5675244ee38e8d3b87/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/73f0d1d2994d00476908d67e638816d4df636372/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_92a452b4c109e884f0fffb9d36b96ee9af673215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/eb227b4f0eb0fcd51367921b4c7f97cae3d2baae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_83ecbd55dca71244be5c9acb2eb57f70b4e07cd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/d456b9f642bfa9faf3a8bcc8d721e2fb7f2d908d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd1216f45256196a78b3f61cd988a57b3df57835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/eb227b4f0eb0fcd51367921b4c7f97cae3d2baae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83ecbd55dca71244be5c9acb2eb57f70b4e07cd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8889ee5f7598420d151e2f2e3a050eb2f5e48685">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f49ba5d1c453a40692b797efe36e2b7ad617ee05/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/d456b9f642bfa9faf3a8bcc8d721e2fb7f2d908d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_cd1216f45256196a78b3f61cd988a57b3df57835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_dc168524afaf5de7053b09e8eaaee5f11bc651df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cf57ec16983f1c9f5bffae192010cbdbb856f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/pre-dexed/debug/classes_2cf57ec16983f1c9f5bffae192010cbdbb856f94.jar" />
+    </item>
+
+</items>

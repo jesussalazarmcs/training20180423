@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/Documents/3_Training/TrainingCode/Previous_CAT/6.19/Week3/BroadcastReceiver2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/992c23400c71ecbc52e95079a8531d4f263acbf0/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

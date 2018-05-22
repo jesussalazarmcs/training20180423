@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/9dd9790d048b32adfa9418a9c628fa43452587a5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/git/ErickGarcia/coding-examples/ServiceSample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/9dd9790d048b32adfa9418a9c628fa43452587a5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/9dd9790d048b32adfa9418a9c628fa43452587a5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jesussalazar/.android/build-cache/9dd9790d048b32adfa9418a9c628fa43452587a5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

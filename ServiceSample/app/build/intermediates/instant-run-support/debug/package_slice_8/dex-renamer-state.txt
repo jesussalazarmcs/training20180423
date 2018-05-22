@@ -1,0 +1,4 @@
+#Wed May 09 11:45:37 EDT 2018
+base.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_04_23/ServiceSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

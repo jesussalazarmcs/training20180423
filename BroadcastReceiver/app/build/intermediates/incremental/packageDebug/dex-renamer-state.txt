@@ -1,0 +1,7 @@
+#Thu Mar 01 10:00:26 EST 2018
+base.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f8d038b6041e054a9071a6ba67888b781dc5f59
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f49ba5d1c453a40692b797efe36e2b7ad617ee05/classes.dex
+base.1=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f49ba5d1c453a40692b797efe36e2b7ad617ee05
+file.0=/Users/jesussalazar/AndroidStudioProjects/GIT_CAT/2018_02_12/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f8d038b6041e054a9071a6ba67888b781dc5f59/classes.dex
